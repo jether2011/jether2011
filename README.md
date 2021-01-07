@@ -10,7 +10,6 @@
 ## Stats
 ![Jether Status](https://github-readme-stats.vercel.app/api?username=jether2011&show_icons=true&count_private=true)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jether2011&langs_count=20)
 
 ## Contributions
 
