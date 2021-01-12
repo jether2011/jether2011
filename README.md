@@ -7,10 +7,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Stats
-![Jether Status](https://github-readme-stats.vercel.app/api?username=jether2011&show_icons=true&count_private=true)
-
-
 ## Contributions
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jether2011&repo=kotlin-studies)
