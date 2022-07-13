@@ -1,15 +1,4 @@
-<meta
-  http-equiv="Content-Security-Policy"
-  content="default-src 'self' *.disqus.com https://disqus.com *.disquscdn.com *.cloudfront.net https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app;
-    connect-src 'self' 'unsafe-inline' data: gap: ws:* ssl.gstatic.com *.cloudfront.net *.disqus.com *.disquscdn.com *.google-analytics.com api.github.com *.algolia.net *.algolianet.com;
-    font-src 'self' data: *.cloudfront.net;
-    frame-src 'self' https://disqus.com *.youtube.com *.vimeo.com *.codepen.io *.facebook.com;
-    img-src 'self' data: blob: *.google-analytics.com *.viglink.com *.disqus.com *.disquscdn.com ce.lijit.com *.cloudfront.net *.githubusercontent.com;
-    object-src 'none';
-    prefetch-src 'self' *.netlify.app https://disqus.com *.disqus.com *.disquscdn.com;
-    script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.google-analytics.com *.disqus.com *.disquscdn.com *.cloudfront.net;
-    style-src 'self' 'unsafe-inline' blob: *.disquscdn.com;"
-/>
+<meta http-equiv="Content-Security-Policy" content="font-src 'self' data:; img-src 'self' data:; default-src 'self' https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app">
 <br>
 <br>
 <br>
