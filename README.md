@@ -11,7 +11,7 @@
 
 ## Me
 
-<img src="https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/user?username=jetherodrigues" />
+<img src="https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/user?username=jetherrodrigues@gmail.com" />
 
 ## Education
 
