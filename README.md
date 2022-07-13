@@ -11,23 +11,23 @@
 
 ## Me
 
-<img src="https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/user?username=jetherrodrigues@gmail.com" />
+<img src="https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app/user?username=jetherodrigues" />
 
 ## Education
 
-<img src="https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/education?username=jetherodrigues" />
+<img src="https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app/education?username=jetherodrigues" />
 
 ## Skills
 
-<img src="https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/skills?username=jetherodrigues" />
+<img src="https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app/skills?username=jetherodrigues" />
 
 ## Experience
 
-<img src="https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/experience?username=jetherodrigues" />
+<img src="https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app/experience?username=jetherodrigues" />
 
 ## Languages
 
-<img src="https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/languages?username=jetherodrigues" />
+<img src="https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app/languages?username=jetherodrigues" />
 
 <br>
 <br>
