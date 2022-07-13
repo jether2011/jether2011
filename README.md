@@ -3,15 +3,32 @@
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" width="150" />
-
-# GitHub Readme LinkedIn
-A serverless application to get dynamically generated images from your LinkedIn profile on your GitHub READMEs!
-
+  <img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" width="150" />
 </div>
 
 <br>
 <br>
+
+## Me
+
+https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/user?username=jetherodrigues
+
+## Education
+
+https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/education?username=jetherodrigues
+
+## Skills
+
+https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/skills?username=jetherodrigues
+
+## Experience
+
+https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/experience?username=jetherodrigues
+
+## Languages
+
+https://github-readme-linkedin-4d8hd4g2p-jether2011.vercel.app/languages?username=jetherodrigues
+
 
 ## Contributions
 
