@@ -1,4 +1,12 @@
-<meta http-equiv="Content-Security-Policy" content="font-src 'self' data:; img-src 'self' data:; default-src 'self' https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app">
+<meta 
+  http-equiv="Content-Security-Policy" 
+  content="
+    font-src 'self' data: github.githubassets.com; 
+    img-src 'self' data:; 
+    default-src 'self' https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app"
+/>
+
+
 <br>
 <br>
 <br>
