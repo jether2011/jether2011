@@ -1,11 +1,17 @@
-- 🔭 I’m currently working on C6Bank
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br>
+<br>
+<br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" width="150" />
+
+# GitHub Readme LinkedIn
+A serverless application to get dynamically generated images from your LinkedIn profile on your GitHub READMEs!
+
+</div>
+
+<br>
+<br>
 
 ## Contributions
 
