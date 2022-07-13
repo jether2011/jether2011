@@ -1,7 +1,7 @@
 <meta 
   http-equiv="Content-Security-Policy" 
   content="
-    font-src 'self' data: github.githubassets.com *.githubassets.com; 
+    font-src 'self' data: github.githubassets.com *.githubassets.com https://www.githubstatus.com/; 
     img-src 'self' data: https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app; 
     default-src 'self' https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app"
 />
