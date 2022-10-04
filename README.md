@@ -10,10 +10,10 @@
 
 Casado a 20 anos, pai de duas filhas lindas e graças a Deus feliz pela família que ele me concedeu.
 
-- 👨🏼‍💻 Atualmente estou com `Tech Engeneer Specialist` e aprendendo e desenvolvendo trabalhos voltados para a função de `Solutions Architecture`. <br>
-- 🎯 Aprendiz eterno de engenharia de software e automação para o mesmo! <br>
-- 📚 Iniciei a jornada de estudos nessa área, em março/2005. <br>
-- ⚡ Curiosidade: Músico clarinetista a 26 anos e ainda aprendendo.
+- 👨🏼‍💻 Atualmente estou como `Tech Engeneer Specialist` e também aprendendo e desenvolvendo trabalhos voltados para a função de `Solutions Architect`; <br>
+- 🎯 Aprendiz eterno de engenharia de software e fundamentos de arquitetura de sistemas e software; <br>
+- 📚 Iniciei a jornada de estudos nessa área, em março/2005; <br>
+- ⚡ Curiosidade: Músico clarinetista a 26 anos e ainda aprendendo; <br>
 - 🎺 Hobbies: Ler, praticar exercícios físicos (musculação, caminhada e corrida) e assitir filmes e séries com a esposa e filhas.
 
 ### Contato:
