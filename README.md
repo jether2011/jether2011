@@ -26,6 +26,9 @@ Casado a 20 anos, pai de duas filhas lindas e graças a Deus feliz pela família
 ### Soft Skills:
 Como profissional, desenvolvi muita disciplina, persistência, responsabilidade para entregar resultados, foco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, trabalhar em equipe, sempre buscando a excelência do time e da empresa e nunca fazendo o mais do mesmo.
 
+[![roadmap.sh](https://roadmap.sh/card/tall/646b47bdcb6301e67f880d04?variant=dark)](https://roadmap.sh)
+
+
 ![Snake animation](https://github.com/jether2011/jether2011/blob/output/github-contribution-grid-snake.svg)<br><br>
 
 ## Contributions
