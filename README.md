@@ -28,13 +28,13 @@ I’m Jether Rodrigues🧑‍💻, a passionate Senior Software Engineer with ov
 ### Thank You for Stopping By! 🙏
 Feel free to star ⭐ my repositories if you find them interesting or useful, and don't hesitate to reach out if you have any questions or just want to chat about technology!
 
-### Hard Skills:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ### Skills & Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,8 +45,26 @@ Feel free to star ⭐ my repositories if you find them interesting or useful, an
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI_CD-3C873A?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### Soft Skills:
-Como profissional, desenvolvi muita disciplina, persistência, responsabilidade para entregar resultados, foco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, trabalhar em equipe, sempre buscando a excelência do time e da empresa e nunca fazendo o mais do mesmo.
+## Soft Skills
+
+- **Communication** :speech_balloon:  
+  Exceptional ability to convey complex technical concepts clearly and effectively to diverse audiences.
+
+- **Negotiation** :handshake:  
+  Proven track record in negotiating project terms effectively, ensuring alignment and satisfaction across stakeholders.
+
+- **Interpersonal Skills** :people_holding_hands:  
+  Adept at building and maintaining strong professional relationships, fostering a collaborative team environment.
+
+- **Problem Solving** :bulb:  
+  Highly skilled in analyzing challenges, devising comprehensive solutions, and implementing them successfully under pressure.
+
+- **Mentorship** :mortar_board:  
+  Passionate about mentoring juniors, sharing knowledge, and facilitating the professional growth of team members.
+
+- **Adaptability** :wrench:  
+  Quick to adapt to new technologies and shifting project demands, ensuring continuous project progress and innovation.
+
 
 [![roadmap.sh](https://roadmap.sh/card/tall/646b47bdcb6301e67f880d04?variant=dark)](https://roadmap.sh)
 
