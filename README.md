@@ -6,32 +6,53 @@
     default-src 'self' https://github-readme-linkedin-8688j7l4r-jether2011.vercel.app"
 />
 
-### Olá, sou Jether Rodrigues do Nascimento! 😁 
+# Hello, World! 👋
 
-Casado a 20 anos, pai de duas filhas lindas e graças a Deus feliz pela família que ele me concedeu.
+I’m Jether Rodrigues🧑‍💻, a passionate Senior Software Engineer with over 13 years of experience specializing in Java ☕, Kotlin 🌀, and Spring Boot 🌱. I thrive on tackling complex technical challenges and turning them into opportunities for growth and innovation.
 
-- 👨🏼‍💻 Atualmente estou como `Tech Engeneer Specialist` e também aprendendo e desenvolvendo trabalhos voltados para a função de `Solutions Architect`; <br>
-- 🎯 Aprendiz eterno de engenharia de software e fundamentos de arquitetura de sistemas e software; <br>
-- 📚 Iniciei a jornada de estudos nessa área, em março/2005; <br>
-- ⚡ Curiosidade: Músico clarinetista a 26 anos e ainda aprendendo; <br>
-- 🎺 Hobbies: Ler, praticar exercícios físicos (musculação, caminhada e corrida) e assitir filmes e séries com a esposa e filhas.
+## About Me:
+- 🚀 I excel in developing robust backend systems using cutting-edge technologies.
+- 🛠️ My toolbelt includes Java, Kotlin, Spring Boot, and a growing expertise in Web3 🌐 and blockchain ⛓️ technologies.
+- 📊 I have a proven track record of enhancing application performance, achieving impressive throughput and response time improvements.
+- 👨‍🏫 I'm also a mentor and educator, passionate about sharing knowledge and helping others grow.
 
-### Contato:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/jetherodrigues)
-<a href="mailto:jetherrodrigues@gmail.com?subject=Hello Mr. Jether Rodrigues" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+## What I'm Working On:
+- 🔭 Currently, I've been acting as a Solutions Architect in a Digital Bank, and also exploring the frontiers of decentralized technology and how it can revolutionize traditional systems.
+- 🌍 I'm committed to contributing to open-source projects that make a difference.
+- 🌟 Always learning new things and polishing my skills in architecture and software design patterns.
+
+## Let’s Connect:
+- 📫 Reach me on [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/jetherodrigues) or follow my projects right here on GitHub!
+- 💼 Check out my repositories to see what I'm currently up to in the world of code.
+
+### Thank You for Stopping By! 🙏
+Feel free to star ⭐ my repositories if you find them interesting or useful, and don't hesitate to reach out if you have any questions or just want to chat about technology!
 
 ### Hard Skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Skills & Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-007ACC?style=for-the-badge)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI_CD-3C873A?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Soft Skills:
 Como profissional, desenvolvi muita disciplina, persistência, responsabilidade para entregar resultados, foco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, trabalhar em equipe, sempre buscando a excelência do time e da empresa e nunca fazendo o mais do mesmo.
 
 [![roadmap.sh](https://roadmap.sh/card/tall/646b47bdcb6301e67f880d04?variant=dark)](https://roadmap.sh)
 
+## Contributions
 
 ![Snake animation](https://github.com/jether2011/jether2011/blob/output/github-contribution-grid-snake.svg)<br><br>
-
-## Contributions
 
 <div>
   <a href="https://github.com/jether2011">
