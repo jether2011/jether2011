@@ -81,4 +81,5 @@ Feel free to star ⭐ my repositories if you find them interesting or useful, an
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jether2011&repo=kotlin-studies&theme=dracula)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jether2011&repo=spring-testcontainers-demo&theme=dracula)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jether2011&repo=iot-api&theme=dracula)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jether2011&repo=https://github.com/i3focus/spring-cloud-stream-examples&theme=dracula)
 
