@@ -28,7 +28,7 @@ I’m Jether Rodrigues🧑‍💻, a passionate Senior Software Engineer with ov
 ### Thank You for Stopping By! 🙏
 Feel free to star ⭐ my repositories if you find them interesting or useful, and don't hesitate to reach out if you have any questions or just want to chat about technology!
 
-### Skills & Technologies
+## Hard Skills & Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
@@ -54,7 +54,7 @@ Feel free to star ⭐ my repositories if you find them interesting or useful, an
   Proven track record in negotiating project terms effectively, ensuring alignment and satisfaction across stakeholders.
 
 - **Interpersonal Skills** :people_holding_hands:  
-  Adept at building and maintaining strong professional relationships, fostering a collaborative team environment.
+  Adept at building and maintaining strong professional relationships, and fostering a collaborative team environment.
 
 - **Problem Solving** :bulb:  
   Highly skilled in analyzing challenges, devising comprehensive solutions, and implementing them successfully under pressure.
@@ -65,12 +65,11 @@ Feel free to star ⭐ my repositories if you find them interesting or useful, an
 - **Adaptability** :wrench:  
   Quick to adapt to new technologies and shifting project demands, ensuring continuous project progress and innovation.
 
+## Continuous Learning
 
 [![roadmap.sh](https://roadmap.sh/card/tall/646b47bdcb6301e67f880d04?variant=dark)](https://roadmap.sh)
 
 ## Contributions
-
-![Snake animation](https://github.com/jether2011/jether2011/blob/output/github-contribution-grid-snake.svg)<br><br>
 
 <div>
   <a href="https://github.com/jether2011">
