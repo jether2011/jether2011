@@ -77,7 +77,7 @@ Feel free to star ⭐ my repositories if you find them interesting or useful, an
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jether2011&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Alguns repositórios de aprendizagens
+## Good Repositories Of Learnings
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jether2011&repo=kotlin-studies&theme=dracula)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jether2011&repo=spring-testcontainers-demo&theme=dracula)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jether2011&repo=iot-api&theme=dracula)
