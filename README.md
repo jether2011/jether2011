@@ -12,7 +12,9 @@ I’m Jether Rodrigues🧑‍💻, a passionate Senior Software Engineer with ov
 
 ## 🏆 Hackathon Achievements
 ![sdfsdf](Blockshield "Blockshield")
+<img src="https://github.com/jether2011/jether2011/blob/master/futuristic_blockchain_network.png" alt="Blockshield" width="200"/>
 🏅 Chainlink Block Magic
+
 [View Project](https://devpost.com/software/blockshield "View Project")
 
 ## About Me:
