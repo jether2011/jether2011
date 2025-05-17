@@ -10,6 +10,11 @@
 
 I’m Jether Rodrigues🧑‍💻, a passionate Senior Software Engineer with over 13 years of experience specializing in Java ☕, Kotlin 🌀, and Spring Boot 🌱. I thrive on tackling complex technical challenges and turning them into opportunities for growth and innovation.
 
+## 🏆 Hackathon Achievements
+![sdfsdf](Blockshield "Blockshield")
+🏅 Chainlink Block Magic
+[View Project](https://devpost.com/software/blockshield "View Project")
+
 ## About Me:
 - 🚀 I excel in developing robust backend systems using cutting-edge technologies.
 - 🛠️ My toolbelt includes Java, Kotlin, Spring Boot, and a growing expertise in Web3 🌐 and blockchain ⛓️ technologies.
